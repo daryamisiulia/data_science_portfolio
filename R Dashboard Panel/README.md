@@ -8,3 +8,9 @@ The goal of project was to create an application for exploratory data analysis a
 
 The user will be able to choose the type of graph, the variables that will be displayed, it will also be possible to calculate the basic descriptive statistics for the columns, save the resulting graphs, as well as change the dataset.
 
+## List of programming techniques used in the project:
+
+* Shiny
+* Writing own functions in R
+* Automation of scripts and reports (RMarkdown)
+* Advanced data processing with dplyr, dtplyr, tidyr
