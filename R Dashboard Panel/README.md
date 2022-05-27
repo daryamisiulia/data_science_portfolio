@@ -1,4 +1,4 @@
-# Shiny Dashboard with EDA and liner regression
+# Shiny Dashboard with EDA and Liner regression
 
 This folder contains code and data for the my dashboard project in R.
 
