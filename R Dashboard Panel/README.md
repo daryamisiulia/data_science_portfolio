@@ -16,3 +16,5 @@ The user will be able to choose the type of graph, the variables that will be di
 * Writing own functions in R
 * Automation of scripts and reports (RMarkdown)
 * Advanced data processing with dplyr, dtplyr, tidyr
+
+![My Image](D:\Учеба\magister\semestr2\Advansed R\project)
