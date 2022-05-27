@@ -17,4 +17,5 @@ The user will be able to choose the type of graph, the variables that will be di
 * Automation of scripts and reports (RMarkdown)
 * Advanced data processing with dplyr, dtplyr, tidyr
 
-![My Image](D:\Учеба\magister\semestr2\Advansed R\project)
+
+<img width="750" alt="app" src="https://user-images.githubusercontent.com/57906878/170704732-53150a16-7e0f-4a73-8423-9cb8a52bdda5.PNG">
